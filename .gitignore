@@ -1,0 +1,6 @@
+build/
+tools/limine-bin/
+src/boot/limine-c-protocol/
+*.iso
+*.elf
+*.o
